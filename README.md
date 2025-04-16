@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [URL](https://github.com/lucasbui69/social-links-profile)
-- Live Site URL: [URL](https://github.com/lucasbui69/social-links-profile)
+- Live Site URL: [URL](https://lucasbui69.github.io/social-links-profile/)
 
 ## My process
 
